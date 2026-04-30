@@ -6,8 +6,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/GUI-Tkinter-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tkinter-GUI-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/JSON-Data%20Storage-yellow?style=for-the-badge&logo=json">
+  <img src="https://img.shields.io/badge/OOP-Architecture-purple?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Type-Desktop%20Game-orange?style=for-the-badge">
 </p>
 
 ---
