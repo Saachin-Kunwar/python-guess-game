@@ -1,8 +1,5 @@
-# 🎯 Guess Game Pro (Python Tkinter)
-
-A fully functional **Number Guessing Game Desktop App** built using **Python + Tkinter**, designed with a focus on clean architecture, user experience, and real-world application structure.
-
----
+🎯 Guess Game Pro (Python Tkinter)
+<p align="center"> A modern **Number Guessing Game Desktop Application** built using <b>Python</b> and <b>Tkinter</b> with clean UI, structured logic, and interactive gameplay. </p> <p align="center"> <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/GUI-Tkinter-green?style=for-the-badge"> <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"> </p>
 
 ## 🚀 Features
 
